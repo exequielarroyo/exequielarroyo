@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on pet/small projects
 - 🌱 I’m currently learning Node.js
+- 📫 How to reach me: Facebook or Twitter
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: Facebook or Twitter
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
